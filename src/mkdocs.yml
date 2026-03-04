@@ -1,0 +1,15 @@
+site_name: My Docs
+
+nav:
+  - Главная: index.md
+  - Обо мне: about.md
+  - Лабораторные: labs.md
+  - Отчеты:
+    - laba1.md
+    - temple.md
+
+theme: 
+  name: dracula
+  logo: assets/kotik.jpg
+  favicon: assets/kotik.jpg
+
