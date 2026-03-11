@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Сайтикс
 
 nav:
   - Главная: index.md
@@ -11,5 +11,4 @@ nav:
 theme: 
   name: dracula
   logo: assets/kotik.jpg
-  favicon: assets/kotik.jpg
-
+  favicon: assets/favicon.jpg
